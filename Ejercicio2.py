@@ -3,7 +3,7 @@ class Animal():
         self.cantidad_patas = cantidad_patas
         self.vertebrado = vertebrado
 
-    def comer():
+    def comer(self):
         print('Estoy comiendo')
 
 
